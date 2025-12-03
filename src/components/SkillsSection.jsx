@@ -1,4 +1,4 @@
-import { skills } from "../data";
+/* import { skills } from "../data";
 import DropdownItem from "./DropdownItem";
 import { useState, useEffect } from "react";
 import { ArrowDown, ArrowRight } from "lucide-react"
@@ -54,3 +54,4 @@ function SkillsSection() {
 }
 
 export default SkillsSection;
+ */
