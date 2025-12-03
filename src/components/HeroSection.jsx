@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <section className="h-screen w-screen md:w-screen md:h-screen relative bg-white" >
       <div className="w-full h-full absolute top-0 left-0 z-0 ">
-        <img src="./hero2.jpg" alt="background image" className="w-full h-full absolute top-0 left-0 z-0" />
+        <img src="./hero4.jpg" alt="background image" className="w-full h-full absolute top-0 left-0 z-0" />
         <div className="w-full h-full backdrop-blur z-10 bg-black/40">
         </div>
       </div>
