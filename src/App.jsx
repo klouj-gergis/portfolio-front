@@ -4,7 +4,7 @@ import AboutSection from './components/AboutSection'
 import Projects from './components/Projects'
 import StatusBar from './components/StatusBar'
 import Contact from './components/Contact'
-import SkillsSection from './components/SkillsSection'
+
 
 
 

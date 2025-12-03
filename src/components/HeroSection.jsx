@@ -3,8 +3,10 @@ import { ArrowDown } from "lucide-react";
 const HeroSection = () => {
   return (
     <section className="h-screen w-screen md:w-screen md:h-screen relative" >
-      <div className="w-full h-full absolute top-0 left-0 z-0 bg-[url('./video-editing.jpg')] bg-cover backdrop-blur-3xl">
-        <div className="w-full h-full backdrop-blur"></div>
+      <div className="w-full h-full absolute top-0 left-0 z-0 ">
+        <img src="./video-editing.jpg" alt="background image" className="w-full h-full absolute top-0 left-0 z-0" />
+        <div className="w-full h-full backdrop-blur z-10 bg-black/40">
+        </div>
       </div>
       <div className="absolute top-0 left-0 z-10">
       <h2 className="w-full p-10 text-5xl font-bold text-white text-montserrat items-center"><span>MAGOMY</span> <span className="">ماجومي</span></h2>
