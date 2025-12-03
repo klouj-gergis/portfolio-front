@@ -9,8 +9,8 @@ const HeroSection = () => {
       <img src="./about.jpg" alt="hero image" className="rounded-2xl shadow-[13px_13px_0px_-3px_#ffffff]" />
       </div>
       <div className="flex gap-5 justify-center items-center">
-        <button className="border px-3 py-2 bg-accent text-white font-bold shadow-[3px_3px_0px_0px_#323232] rounded-lg hover:bg-white hover:text-accent ">Let's Talk</button>
-        <button className="border px-3 py-2 bg-accent text-white font-bold shadow-[3px_3px_0px_0px_#323232] rounded-lg hover:bg-white hover:text-accent ">My Work</button>
+        <button className="border px-3 py-2 bg-accent text-white font-bold shadow-[3px_3px_0px_0px_#323232] rounded-lg hover:bg-white hover:text-accent active:bg-white active:text-accent">Let's Talk</button>
+        <button className="border px-3 py-2 bg-accent text-white font-bold shadow-[3px_3px_0px_0px_#323232] rounded-lg hover:bg-white hover:text-accent active:bg-white active:text-accent">My Work</button>
       </div>
     </section>
   )
