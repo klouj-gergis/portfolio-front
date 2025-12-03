@@ -1,11 +1,11 @@
 import { ArrowDown } from "lucide-react";
-import hero from "../assets/hero/video-editing.jpg";
+
 
 const HeroSection = () => {
   return (
     <section className="h-screen w-screen md:w-screen md:h-screen relative" >
       <div className="w-full h-full absolute top-0 left-0 z-0 ">
-        <img src={hero} alt="background image" className="w-full h-full absolute top-0 left-0 z-0" />
+        <img src="./video-editing.jpg" alt="background image" className="w-full h-full absolute top-0 left-0 z-0" />
         <div className="w-full h-full backdrop-blur z-10 bg-black/40">
         </div>
       </div>
