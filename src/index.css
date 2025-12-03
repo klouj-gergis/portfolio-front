@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-roboto-mono: 'Roboto Mono', monospace;
+  --font-bunge: 'Bungee', cursive;
+  --font-cairo: 'Cairo', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+
+  --color-primary: #0F0F0F;
+  --color-background: #FFDD55;
+  --color-secondary: #232D3F;
+  --color-accent: #18191F;
+  --color-hover: #008170;
+
+}
+
