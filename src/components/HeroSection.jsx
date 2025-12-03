@@ -3,8 +3,8 @@ import { ArrowDown } from "lucide-react";
 const HeroSection = () => {
   return (
     <section className="h-screen w-screen md:w-screen md:h-screen" >
-      <h2 className="w-full p-10 text-6xl font-bold text-accent text-montserrat items-center"><span>MAGOMY</span> <span className="">ماجومي</span></h2>
-      <p className="px-10 text-2xl">Visual storyteller, Creative Designer </p>
+      <h2 className="w-full p-10 text-5xl font-bold text-accent text-montserrat items-center"><span>MAGOMY</span> <span className="">ماجومي</span></h2>
+      <p className="px-10 text-lg text-accent/80">Visual storyteller, Creative Designer </p>
       <div className="w-full p-10">
       <img src="./about.jpg" alt="hero image" className="rounded-2xl shadow-[13px_13px_0px_-3px_#ffffff]" />
       </div>
